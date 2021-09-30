@@ -6,7 +6,7 @@ Please read the following sections on how to use this software. The basic usage 
 
 `python3 main.py [-h] [--det] [--graph-path GRAPH_PATH] [--out OUT] fsm_path`
 
-Run `python3 main.py -h` for more detailed usage instructions.
+Run `python3 main.py -h` for more detailed usage instructions. This should be run inside `src/` or at least in a way that allows the modules in `src/` to be in the PYTHON_PATH.
 
 ## Specifying State Machines
 State machines can be described in a text file. Integers and strings not containing whitespace
