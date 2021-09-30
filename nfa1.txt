@@ -1,0 +1,7 @@
+Start:A
+Accept:{B,C}
+Edges:
+A,a->B
+A,b->B
+A,a->C
+B,a->B
